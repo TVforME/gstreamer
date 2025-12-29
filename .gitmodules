@@ -1,0 +1,9 @@
+[submodule "gstdtmfpinsrc"]
+	path = gstdtmfpinsrc
+	url = https://github.com/TVforME/gstdtmfpinsrc.git
+[submodule "gsttbs6324src"]
+	path = gsttbs6324src
+	url = https://github.com/TVforME/gsttbs6324src.git
+[submodule "gstmorsesrc"]
+	path = gstmorsesrc
+	url = https://github.com/TVforME/gstmorsesrc.git
