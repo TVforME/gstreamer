@@ -7,7 +7,7 @@ This repository contains GStreamer plugins as submodules.
 | Plugin | Description | Repository |
 |--------|-------------|------------|
 | gstdtmfpinsrc | DTMF PIN Detection Plugin | [gstdtmfpinsrc](https://github.com/TVforME/gstdtmfpinsrc) |
-| gsttbs6324src | TBS6324 Source Plugin | [gsttbs6324src](https://github.com/TVforME/gsttbs6324src) |
+| gsttbs6324src | TBS6324 Quad Encoder Source Plugin | [gsttbs6324src](https://github.com/TVforME/gsttbs6324src) |
 | gstmorsesrc | Morse Code Source Plugin | [gstmorsesrc](https://github.com/TVforME/gstmorsesrc) |
 
 ## Quick Start
