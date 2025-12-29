@@ -46,24 +46,15 @@ gst-launch-1.0 filesrc location=audio.wav ! \
 ```
 
 ### gsttbs6324src - TBS6324 Source
-GStreamer source element for TBS6324 DVB tuner card.
+GStreamer source element for TBS6324 3G-Quad h.264/h.265/aac encoder PCIe card.
 
 ### gstmorsesrc - Morse Code Source
-Generates Morse code audio signals.
+Generates Morse code audio signals from text
 
-## Adding New Submodules
-
-To add a new plugin as a submodule:
-```bash
-git submodule add https://github.com/TVforME/your-plugin.git
-git add .gitmodules
-git commit -m "Add new plugin submodule"
-git push
-```
 
 ## Author
 
-TVforME
+TVforME vk3dgtv@gmail.com
 
 ## License
 
