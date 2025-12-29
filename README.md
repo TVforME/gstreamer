@@ -50,6 +50,9 @@ GStreamer source element for TBS6324 3G-Quad h.264/h.265/aac encoder PCIe card.
 
 ### gstmorsesrc - Morse Code Source
 Generates Morse code audio signals from text specifically for becon identification.
+```bash
+gst-launch-1.0 morsesrc text="CQ CQ DE VK3DG" wpm=20 frequency=880.0 volume=0.5 ! audioconvert ! autoaudiosink
+```
 
 
 ## Author
